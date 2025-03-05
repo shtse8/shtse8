@@ -65,7 +65,7 @@ Experienced Full Stack Developer & Entrepreneur specializing in web development,
 - Developed comprehensive game guides, news coverage and community features
 
 ### Founder and Lead Developer | MiniMax Game Entertainment
-**2010 - 2014 | Hong Kong / Taiwan / China**
+**2010 - 2016 | Hong Kong / Taiwan / China**
 - Led development of a top social gaming company with 10M+ monthly active users
 - Built and operated 30+ concurrent social games on the Facebook platform
 - Established offices across three regions with extensive retail distribution network

@@ -1,35 +1,111 @@
-### About Me
+# Kyle Tse
 
-Hello! I'm Kyle Tse, a developer based in Hong Kong, and the founder of Cubeage Limited and Nakuz. My GitHub username is [shtse8](https://github.com/shtse8), where you can explore my projects and contributions. My focus lies in enhancing open-source tools, creating efficient algorithms, and developing innovative web frameworks. I am passionate about game development, tech innovation, and continuous learning.
+## Full Stack Developer & Entrepreneur
 
-### Professional Background
-- **Founder of Cubeage Limited**: A renowned game development company with a solid reputation.
-- **Founder of Nakuz**: A comprehensive gaming and entertainment information platform.
-- **Mensa Society Member**: Proud member of an organization for people with high IQs.
-- **Experienced in multiple programming languages**: JavaScript, TypeScript, Dart, PHP, and more.
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/shtse8)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/shtse8)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4380384/shtse8)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://kylet.se)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@kylet.se)
 
-### Key Projects
-- **[xserver](https://github.com/shtse8/xserver)**: A Dart-based web server framework leveraging source generation for automatic handler registration.
-- **[dart_firebase_admin](https://github.com/shtse8/dart_firebase_admin)**: A Firebase Admin SDK for Dart.
-- **[xdash](https://github.com/shtse8/xdash)**: A lean TypeScript utility library for simplicity and performance.
-- **[google-photos-delete-tool](https://github.com/shtse8/google-photos-delete-tool)**: Tool for deleting all photos from Google Photos.
+Experienced Full Stack Developer & Entrepreneur specializing in web development, mobile game development, blockchain solutions, and AI integration. Founded multiple successful companies including Cubeage Limited and Nakuz.com, with products reaching millions of users globally. Available for remote work worldwide.
 
-### Open Source Contributions
-- **Firestore ODM Libraries**: Developing robust libraries for Firestore in Dart.
-- **TrueNAS Integration**: Integrating TrueNAS credentials for various applications.
-- **Algorithm Optimization**: Implementing and optimizing algorithms for efficient computing, such as the Hirschberg and Myers algorithms.
+## 🚀 Technical Expertise
 
-### Personal Interests
-- **Game Development**: Passionate about creating engaging and innovative games.
-- **Tech Innovation**: Constantly exploring new technologies to improve development processes.
-- **Education**: Dedicated to learning and teaching, especially in the fields of programming and technology.
+### Programming Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
-### Contact
-Feel free to explore my repositories and reach out via issues for any questions or collaboration opportunities.
+### Game Development
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Cocos2d](https://img.shields.io/badge/-Cocos2d-55C2E1?style=flat-square&logo=cocos&logoColor=white)
+![Multiplayer](https://img.shields.io/badge/-Multiplayer-7B68EE?style=flat-square&logo=firebase&logoColor=white)
+![Game AI](https://img.shields.io/badge/-Game%20AI-FF6F61?style=flat-square&logo=tensorflow&logoColor=white)
+
+### AI & Data
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLMs-5DADE2?style=flat-square&logo=openai&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4285F4?style=flat-square&logo=google-analytics&logoColor=white)
+
+### Blockchain & Web3
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-2B2D42?style=flat-square&logo=ethereum&logoColor=white)
+![DeFi](https://img.shields.io/badge/-DeFi-6851FF?style=flat-square&logo=ethereum&logoColor=white)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+## 💼 Professional Experience
+
+### Founder and Lead Developer | Cubeage Limited
+**2014 - 2024 | Hong Kong / China**
+- Founded and led a mobile game development company achieving 10M+ global installs
+- Developed games across multiple frameworks (Unity3D, Cocos2d, Corona SDK, Flutter)
+- Built comprehensive backend infrastructure supporting large-scale multiplayer games
+- Established development teams across Hong Kong and China offices
+
+### Founder and Lead Developer | Nakuz.com
+**2006 - 2024 | Hong Kong**
+- Created Hong Kong's #1 gaming information platform with 500K+ registered users
+- Achieved 3,000+ concurrent online users and established partnerships with 100+ game publishers
+- Built and maintained a high-performance platform using PHP, MySQL and Ubuntu
+- Developed comprehensive game guides, news coverage and community features
+
+### Founder and Lead Developer | MiniMax Game Entertainment
+**2010 - 2014 | Hong Kong / Taiwan / China**
+- Led development of a top social gaming company with 10M+ monthly active users
+- Built and operated 30+ concurrent social games on the Facebook platform
+- Established offices across three regions with extensive retail distribution network
+- Implemented comprehensive payment and analytics systems across physical and digital channels
+
+## 🔥 Key Projects
+
+### Mobile Games
+- **[Big 2 Tycoon](https://play.google.com/store/apps/details?id=com.gameflask.btthk)** - Multiplayer card game with character progression and arena tournaments, built with Unity3D
+- **[Fun Mahjong 16 Tiles](https://play.google.com/store/apps/details?id=com.cubeage.fmj16.app)** - Popular Taiwanese Mahjong game with 1M+ downloads, featuring unique offline gameplay
+- **[Hong Kong Mahjong Tycoon](https://play.google.com/store/apps/details?id=com.crazycube.hkmahjongtycoon.app)** - 3D Mahjong world with multiple game modes and character progression
+- **[Fun Showhand: Stud Poker](https://play.google.com/store/apps/details?id=com.cubeage.showhand.app)** - Engaging poker game with multiple game modes and social features
+
+### Web Platforms
+- **[Nakuz.com](https://nakuz.com)** - Hong Kong's leading gaming information website with 500K+ registered users
+- **[Cubeage.com](https://cubeage.com)** - Official game portal with user management and payment systems
+- **Anymud** - Medium-like publishing platform with advanced editor capabilities
+
+### Open Source
+- **[xServer](https://github.com/shtse8/xserver)** - A Dart-based web server framework leveraging source generation
+- **[dart_firebase_admin](https://github.com/shtse8/dart_firebase_admin)** - Firebase Admin SDK for Dart
+- **[xdash](https://github.com/shtse8/xdash)** - Lean TypeScript utility library for simplicity and performance
+- **[google-photos-delete-tool](https://github.com/shtse8/google-photos-delete-tool)** - Chrome extension for efficient bulk deletion of Google Photos (2,000+ users)
+
+### AI & Blockchain
+- **Quantitative Trading System** - Advanced algorithmic trading platform leveraging multiple indicators and real-time execution
+- **Decentralized Exchange** - Hybrid DEX platform combining Bancor-Orderbook models for cross-chain trading
+- **AI Content Generator** - Advanced AI-powered content generation platform for marketers and publishers
+
+## 📚 Philosophical Approach
+I believe in purposeful minimalism, where technology should enhance human experiences while respecting simplicity and clarity. My work focuses on creating intuitive, efficient, and maintainable solutions that prioritize user needs and provide meaningful value.
+
+## 📫 Contact
+Feel free to reach out for collaboration, job opportunities, or just to connect:
+
+- **Email:** [hi@kylet.se](mailto:hi@kylet.se)
+- **Portfolio:** [kylet.se](https://kylet.se)
+- **Location:** Hong Kong & UK (Available for remote work worldwide)
 
 ---
-
-Check out more of my work and contributions on my [GitHub profile](https://github.com/shtse8).
 
 ![metrics](https://github.com/shtse8/shtse8/blob/master/github-metrics.svg)
 

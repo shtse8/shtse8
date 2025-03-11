@@ -1,6 +1,6 @@
 # Kyle Tse
 
-## Full Stack Developer & Entrepreneur
+## Full Stack Developer
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/shtse8)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/shtse8)
@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://kylet.se)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@kylet.se)
 
-Experienced Full Stack Developer & Entrepreneur specializing in web development, mobile game development, blockchain solutions, and AI integration. Founded multiple successful companies including Cubeage Limited and Nakuz.com, with products reaching millions of users globally. Available for remote work worldwide.
+Experienced Full Stack Developer specializing in web development, mobile game development, blockchain solutions, and AI integration. Developed products reaching millions of users globally. Available for remote work worldwide.
 
 ## 🚀 Technical Expertise
 
@@ -50,26 +50,26 @@ Experienced Full Stack Developer & Entrepreneur specializing in web development,
 
 ## 💼 Professional Experience
 
-### Founder and Lead Developer | Cubeage Limited
+### Senior Full Stack Developer | Mobile Games & Web Platforms
 **2014 - 2024 | Hong Kong / China**
-- Founded and led a mobile game development company achieving 10M+ global installs
-- Developed games across multiple frameworks (Unity3D, Cocos2d, Corona SDK, Flutter)
+- Developed mobile games across multiple frameworks (Unity3D, Cocos2d, Corona SDK, Flutter) reaching 10M+ global installs
 - Built comprehensive backend infrastructure supporting large-scale multiplayer games
-- Established development teams across Hong Kong and China offices
+- Created high-performance web platforms using PHP, MySQL and Ubuntu
+- Worked with development teams across Hong Kong and China offices
 
-### Founder and Lead Developer | Nakuz.com
+### Full Stack Developer | Gaming Information Platform
 **2006 - 2024 | Hong Kong**
-- Created Hong Kong's #1 gaming information platform with 500K+ registered users
-- Achieved 3,000+ concurrent online users and established partnerships with 100+ game publishers
-- Built and maintained a high-performance platform using PHP, MySQL and Ubuntu
-- Developed comprehensive game guides, news coverage and community features
+- Built Hong Kong's #1 gaming information platform with 500K+ registered users
+- Engineered platform to support 3,000+ concurrent online users and integrate with 100+ game publishers
+- Developed and maintained high-performance backend using PHP, MySQL and Ubuntu
+- Implemented comprehensive game guides, news coverage and community features
 
-### Founder and Lead Developer | MiniMax Game Entertainment
+### Lead Developer | Social Gaming
 **2010 - 2016 | Hong Kong / Taiwan / China**
-- Led development of a top social gaming company with 10M+ monthly active users
-- Built and operated 30+ concurrent social games on the Facebook platform
-- Established offices across three regions with extensive retail distribution network
+- Developed social gaming applications with 10M+ monthly active users
+- Built and maintained 30+ concurrent social games on the Facebook platform
 - Implemented comprehensive payment and analytics systems across physical and digital channels
+- Collaborated with teams across three regional offices
 
 ## 🔥 Key Projects
 

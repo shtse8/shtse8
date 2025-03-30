@@ -1,12 +1,12 @@
 # Kyle Tse
 ### Full Stack Developer | Game Developer | Blockchain Engineer | AI Enthusiast
 
-<p>
-  <a href="https://kylet.se" target="_blank">Portfolio</a> •
-  <a href="mailto:hi@kylet.se">Email</a> •
-  <a href="https://github.com/shtse8" target="_blank">GitHub</a> •
-  <a href="https://linkedin.com/in/shtse8" target="_blank">LinkedIn</a> •
-  <a href="https://stackoverflow.com/users/4380384/shtse8" target="_blank">Stack Overflow</a>
+<p align="left">
+  <a href="https://kylet.se" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=" alt="Portfolio"/></a>
+  <a href="mailto:hi@kylet.se"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="https://github.com/shtse8" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/shtse8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://stackoverflow.com/users/4380384/shtse8" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-Profile-orange?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow"/></a>
 </p>
 
 📍 Hong Kong & UK | 🌍 Available for remote work

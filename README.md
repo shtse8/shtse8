@@ -2,11 +2,11 @@
 ### Full Stack Developer | Game Developer | Blockchain Engineer | AI Enthusiast
 
 <p align="left">
-  <a href="https://kylet.se" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=" alt="Portfolio"/></a>
-  <a href="mailto:hi@kylet.se"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
-  <a href="https://github.com/shtse8" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/shtse8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://stackoverflow.com/users/4380384/shtse8" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-Profile-orange?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow"/></a>
+  <a href="https://kylet.se" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo="/></a>
+  <a href="mailto:hi@kylet.se"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://github.com/shtse8" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://linkedin.com/in/shtse8" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://stackoverflow.com/users/4380384/shtse8" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-Profile-orange?style=for-the-badge&logo=stackoverflow"/></a>
 </p>
 
 📍 Hong Kong & UK | 🌍 Available for remote work
@@ -24,43 +24,43 @@ A versatile Full Stack Developer passionate about crafting high-quality digital 
 ## 🛠️ Technical Skills
 
 <details>
-  <summary><strong>Frontend</strong></summary>
-  <p><code>React</code> <code>Next.js</code> <code>Vue.js</code> <code>TypeScript</code> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>Tailwind CSS</code> <code>Sass</code> <code>Framer Motion</code> <code>Responsive Design</code> <code>Styled Components</code> <code>WebAssembly</code></p>
+  <summary><img alt="Frontend" src="https://img.shields.io/badge/Frontend-Skills-blue?style=flat-square"/></summary>
+  <p><br/><code>React</code> <code>Next.js</code> <code>Vue.js</code> <code>TypeScript</code> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>Tailwind CSS</code> <code>Sass</code> <code>Framer Motion</code> <code>Responsive Design</code> <code>Styled Components</code> <code>WebAssembly</code></p>
 </details>
 
 <details>
-  <summary><strong>Backend</strong></summary>
-  <p><code>Node.js</code> <code>Nest.js</code> <code>Express</code> <code>Python</code> <code>Java</code> <code>Go</code> <code>C#</code> <code>PHP</code> <code>Socket.IO</code> <code>Protobuf</code> <code>GraphQL</code> <code>REST APIs</code> <code>Serverless</code></p>
+  <summary><img alt="Backend" src="https://img.shields.io/badge/Backend-Skills-lightgrey?style=flat-square"/></summary>
+  <p><br/><code>Node.js</code> <code>Nest.js</code> <code>Express</code> <code>Python</code> <code>Java</code> <code>Go</code> <code>C#</code> <code>PHP</code> <code>Socket.IO</code> <code>Protobuf</code> <code>GraphQL</code> <code>REST APIs</code> <code>Serverless</code></p>
 </details>
 
 <details>
-  <summary><strong>Databases</strong></summary>
-  <p><code>PostgreSQL</code> <code>MySQL</code> <code>Percona</code> <code>Redis</code> <code>MongoDB</code> <code>Firebase</code> <code>SQL</code> <code>Database Design & Optimization</code></p>
+  <summary><img alt="Databases" src="https://img.shields.io/badge/Database-Skills-yellowgreen?style=flat-square"/></summary>
+  <p><br/><code>PostgreSQL</code> <code>MySQL</code> <code>Percona</code> <code>Redis</code> <code>MongoDB</code> <code>Firebase</code> <code>SQL</code> <code>Database Design & Optimization</code></p>
 </details>
 
 <details>
-  <summary><strong>DevOps & Cloud</strong></summary>
-  <p><code>Docker</code> <code>Kubernetes</code> <code>GCP</code> <code>Firebase</code> <code>Cloudflare Pages</code> <code>GitHub Actions</code> <code>CI/CD</code> <code>Ubuntu</code> <code>Serverless</code> <code>Automation</code></p>
+  <summary><img alt="DevOps & Cloud" src="https://img.shields.io/badge/DevOps_&_Cloud-Skills-orange?style=flat-square"/></summary>
+  <p><br/><code>Docker</code> <code>Kubernetes</code> <code>GCP</code> <code>Firebase</code> <code>Cloudflare Pages</code> <code>GitHub Actions</code> <code>CI/CD</code> <code>Ubuntu</code> <code>Serverless</code> <code>Automation</code></p>
 </details>
 
 <details>
-  <summary><strong>AI & ML</strong></summary>
-  <p><code>PyTorch</code> <code>TensorFlow</code> <code>LLM/GPT</code> <code>NLP</code> <code>Computer Vision</code> <code>Quantitative Trading</code> <code>Reinforcement Learning</code> <code>Monte Carlo Simulation</code> <code>Data Analysis</code> <code>Time Series Analysis</code></p>
+  <summary><img alt="AI & ML" src="https://img.shields.io/badge/AI_&_ML-Skills-important?style=flat-square"/></summary>
+  <p><br/><code>PyTorch</code> <code>TensorFlow</code> <code>LLM/GPT</code> <code>NLP</code> <code>Computer Vision</code> <code>Quantitative Trading</code> <code>Reinforcement Learning</code> <code>Monte Carlo Simulation</code> <code>Data Analysis</code> <code>Time Series Analysis</code></p>
 </details>
 
 <details>
-  <summary><strong>Game Development</strong></summary>
-  <p><code>Unity3D</code> <code>Cocos2d</code> <code>Corona SDK</code> <code>Lua</code> <code>Game AI</code> <code>Multiplayer Networking</code> <code>Game Physics</code> <code>ELO Rating</code> <code>Shader Programming</code> <code>Mobile Games</code></p>
+  <summary><img alt="Game Development" src="https://img.shields.io/badge/Game_Development-Skills-blueviolet?style=flat-square"/></summary>
+  <p><br/><code>Unity3D</code> <code>Cocos2d</code> <code>Corona SDK</code> <code>Lua</code> <code>Game AI</code> <code>Multiplayer Networking</code> <code>Game Physics</code> <code>ELO Rating</code> <code>Shader Programming</code> <code>Mobile Games</code></p>
 </details>
 
 <details>
-  <summary><strong>Blockchain</strong></summary>
-  <p><code>Solidity</code> <code>Ethereum</code> <code>EOS</code> <code>Smart Contracts</code> <code>Web3</code> <code>DeFi</code> <code>dApps</code> <code>NFTs</code> <code>Cryptocurrency</code></p>
+  <summary><img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-Skills-critical?style=flat-square"/></summary>
+  <p><br/><code>Solidity</code> <code>Ethereum</code> <code>EOS</code> <code>Smart Contracts</code> <code>Web3</code> <code>DeFi</code> <code>dApps</code> <code>NFTs</code> <code>Cryptocurrency</code></p>
 </details>
 
 <details>
-  <summary><strong>Tools & Other</strong></summary>
-  <p><code>Git</code> <code>Bun</code> <code>FFmpeg</code> <code>Simhash</code> <code>Chrome Extensions</code> <code>Payment Integration</code> <code>Ad Mediation</code> <code>SEO</code> <code>Digital Marketing</code> <code>Agile</code> <code>Team Leadership</code></p>
+  <summary><img alt="Tools & Other" src="https://img.shields.io/badge/Tools_&_Other-Skills-success?style=flat-square"/></summary>
+  <p><br/><code>Git</code> <code>Bun</code> <code>FFmpeg</code> <code>Simhash</code> <code>Chrome Extensions</code> <code>Payment Integration</code> <code>Ad Mediation</code> <code>SEO</code> <code>Digital Marketing</code> <code>Agile</code> <code>Team Leadership</code></p>
 </details>
 
 ---

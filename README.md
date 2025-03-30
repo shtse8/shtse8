@@ -1,13 +1,7 @@
 # Kyle Tse
 ### Full Stack Developer | Game Developer | Blockchain Engineer | AI Enthusiast
 
-<p align="left">
-  <a href="https://kylet.se" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo="/></a>
-  <a href="mailto:hi@kylet.se"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://github.com/shtse8" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://linkedin.com/in/shtse8" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://stackoverflow.com/users/4380384/shtse8" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-Profile-orange?style=for-the-badge&logo=stackoverflow"/></a>
-</p>
+[Portfolio](https://kylet.se) | [Email](mailto:hi@kylet.se) | [GitHub](https://github.com/shtse8) | [LinkedIn](https://linkedin.com/in/shtse8) | [Stack Overflow](https://stackoverflow.com/users/4380384/shtse8)
 
 📍 Hong Kong & UK | 🌍 Available for remote work
 
@@ -23,73 +17,28 @@ A versatile Full Stack Developer passionate about crafting high-quality digital 
 
 ## 🛠️ Technical Skills
 
-<details>
-  <summary><img alt="Frontend" src="https://img.shields.io/badge/Frontend-Skills-blue?style=flat-square"/></summary>
-  <p><br/><code>React</code> <code>Next.js</code> <code>Vue.js</code> <code>TypeScript</code> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>Tailwind CSS</code> <code>Sass</code> <code>Framer Motion</code> <code>Responsive Design</code> <code>Styled Components</code> <code>WebAssembly</code></p>
-</details>
-
-<details>
-  <summary><img alt="Backend" src="https://img.shields.io/badge/Backend-Skills-lightgrey?style=flat-square"/></summary>
-  <p><br/><code>Node.js</code> <code>Nest.js</code> <code>Express</code> <code>Python</code> <code>Java</code> <code>Go</code> <code>C#</code> <code>PHP</code> <code>Socket.IO</code> <code>Protobuf</code> <code>GraphQL</code> <code>REST APIs</code> <code>Serverless</code></p>
-</details>
-
-<details>
-  <summary><img alt="Databases" src="https://img.shields.io/badge/Database-Skills-yellowgreen?style=flat-square"/></summary>
-  <p><br/><code>PostgreSQL</code> <code>MySQL</code> <code>Percona</code> <code>Redis</code> <code>MongoDB</code> <code>Firebase</code> <code>SQL</code> <code>Database Design & Optimization</code></p>
-</details>
-
-<details>
-  <summary><img alt="DevOps & Cloud" src="https://img.shields.io/badge/DevOps_&_Cloud-Skills-orange?style=flat-square"/></summary>
-  <p><br/><code>Docker</code> <code>Kubernetes</code> <code>GCP</code> <code>Firebase</code> <code>Cloudflare Pages</code> <code>GitHub Actions</code> <code>CI/CD</code> <code>Ubuntu</code> <code>Serverless</code> <code>Automation</code></p>
-</details>
-
-<details>
-  <summary><img alt="AI & ML" src="https://img.shields.io/badge/AI_&_ML-Skills-important?style=flat-square"/></summary>
-  <p><br/><code>PyTorch</code> <code>TensorFlow</code> <code>LLM/GPT</code> <code>NLP</code> <code>Computer Vision</code> <code>Quantitative Trading</code> <code>Reinforcement Learning</code> <code>Monte Carlo Simulation</code> <code>Data Analysis</code> <code>Time Series Analysis</code></p>
-</details>
-
-<details>
-  <summary><img alt="Game Development" src="https://img.shields.io/badge/Game_Development-Skills-blueviolet?style=flat-square"/></summary>
-  <p><br/><code>Unity3D</code> <code>Cocos2d</code> <code>Corona SDK</code> <code>Lua</code> <code>Game AI</code> <code>Multiplayer Networking</code> <code>Game Physics</code> <code>ELO Rating</code> <code>Shader Programming</code> <code>Mobile Games</code></p>
-</details>
-
-<details>
-  <summary><img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-Skills-critical?style=flat-square"/></summary>
-  <p><br/><code>Solidity</code> <code>Ethereum</code> <code>EOS</code> <code>Smart Contracts</code> <code>Web3</code> <code>DeFi</code> <code>dApps</code> <code>NFTs</code> <code>Cryptocurrency</code></p>
-</details>
-
-<details>
-  <summary><img alt="Tools & Other" src="https://img.shields.io/badge/Tools_&_Other-Skills-success?style=flat-square"/></summary>
-  <p><br/><code>Git</code> <code>Bun</code> <code>FFmpeg</code> <code>Simhash</code> <code>Chrome Extensions</code> <code>Payment Integration</code> <code>Ad Mediation</code> <code>SEO</code> <code>Digital Marketing</code> <code>Agile</code> <code>Team Leadership</code></p>
-</details>
+*   **Frontend:** `React`, `Next.js`, `Vue.js`, `TypeScript`, `JavaScript`, `HTML5`, `CSS3`, `Tailwind CSS`, `Sass`, `Framer Motion`, `Responsive Design`, `Styled Components`, `WebAssembly`
+*   **Backend:** `Node.js`, `Nest.js`, `Express`, `Python`, `Java`, `Go`, `C#`, `PHP`, `Socket.IO`, `Protobuf`, `GraphQL`, `REST APIs`, `Serverless`
+*   **Databases:** `PostgreSQL`, `MySQL`, `Percona`, `Redis`, `MongoDB`, `Firebase`, `SQL`, `Database Design & Optimization`
+*   **DevOps & Cloud:** `Docker`, `Kubernetes`, `GCP`, `Firebase`, `Cloudflare Pages`, `GitHub Actions`, `CI/CD`, `Ubuntu`, `Serverless`, `Automation`
+*   **AI & ML:** `PyTorch`, `TensorFlow`, `LLM/GPT`, `NLP`, `Computer Vision`, `Quantitative Trading`, `Reinforcement Learning`, `Monte Carlo Simulation`, `Data Analysis`, `Time Series Analysis`
+*   **Game Development:** `Unity3D`, `Cocos2d`, `Corona SDK`, `Lua`, `Game AI`, `Multiplayer Networking`, `Game Physics`, `ELO Rating`, `Shader Programming`, `Mobile Games`
+*   **Blockchain:** `Solidity`, `Ethereum`, `EOS`, `Smart Contracts`, `Web3`, `DeFi`, `dApps`, `NFTs`, `Cryptocurrency`
+*   **Tools & Other:** `Git`, `Bun`, `FFmpeg`, `Simhash`, `Chrome Extensions`, `Payment Integration`, `Ad Mediation`, `SEO`, `Digital Marketing`, `Agile`, `Team Leadership`
 
 ---
 
 ## 💼 Professional Experience
 
-<ul>
-  <li>
-    <strong>Cubeage Limited</strong> (Full Stack Developer, 2014-2024)
-    <ul>
-      <li>Developed mobile games reaching 10M+ global downloads (Unity3D, Cocos2d, etc.).</li>
-      <li>Built scalable backend infrastructure and monetization strategies.</li>
-    </ul>
-  </li>
-  <li>
-    <strong>MiniMax Game Entertainment Ltd.</strong> (Full Stack Developer, 2010-2016)
-    <ul>
-      <li>Key developer for 30+ Facebook social games (10M+ MAU).</li>
-      <li>Developed Funimax game distribution platform.</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Nakuz.com Limited</strong> (Full Stack Developer, 2006-2024)
-    <ul>
-      <li>Built & maintained HK's #1 gaming portal (500k+ users).</li>
-      <li>Partnered with 100+ publishers; modernized stack with React/Next.js.</li>
-    </ul>
-  </li>
-</ul>
+*   **Cubeage Limited** (Full Stack Developer, 2014-2024)
+    *   Developed mobile games reaching 10M+ global downloads (Unity3D, Cocos2d, etc.).
+    *   Built scalable backend infrastructure and monetization strategies.
+*   **MiniMax Game Entertainment Ltd.** (Full Stack Developer, 2010-2016)
+    *   Key developer for 30+ Facebook social games (10M+ MAU).
+    *   Developed Funimax game distribution platform.
+*   **Nakuz.com Limited** (Full Stack Developer, 2006-2024)
+    *   Built & maintained HK's #1 gaming portal (500k+ users).
+    *   Partnered with 100+ publishers; modernized stack with React/Next.js.
 
 ---
 

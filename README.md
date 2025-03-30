@@ -1,9 +1,13 @@
 # Kyle Tse
 ### Full Stack Developer | Game Developer | Blockchain Engineer | AI Enthusiast
 
-Building innovative digital experiences across platforms. Extensive experience in web & mobile game development, blockchain solutions, AI integration, system architecture, game design, marketing, and operations. Proven track record with apps reaching millions of downloads.
-
-[Portfolio](https://kylet.se) • [Email](mailto:hi@kylet.se) • [GitHub](https://github.com/shtse8) • [LinkedIn](https://linkedin.com/in/shtse8) • [Stack Overflow](https://stackoverflow.com/users/4380384/shtse8)
+<p>
+  <a href="https://kylet.se" target="_blank">Portfolio</a> •
+  <a href="mailto:hi@kylet.se">Email</a> •
+  <a href="https://github.com/shtse8" target="_blank">GitHub</a> •
+  <a href="https://linkedin.com/in/shtse8" target="_blank">LinkedIn</a> •
+  <a href="https://stackoverflow.com/users/4380384/shtse8" target="_blank">Stack Overflow</a>
+</p>
 
 📍 Hong Kong & UK | 🌍 Available for remote work
 
@@ -11,7 +15,7 @@ Building innovative digital experiences across platforms. Extensive experience i
 
 ## 🚀 About Me
 
-A versatile developer passionate about crafting high-quality digital products. My expertise spans the full stack, from engaging frontend interfaces and scalable backends to complex game mechanics, decentralized applications, and AI-driven systems. I thrive on solving challenging problems and turning ideas into impactful realities.
+A versatile Full Stack Developer passionate about crafting high-quality digital products. My expertise spans engaging frontend interfaces, scalable backends, complex game mechanics, decentralized applications, and AI-driven systems. I thrive on solving challenging problems and turning ideas into impactful realities, with a proven track record including apps reaching millions of downloads.
 
 **Core Competencies:** Full Stack Development, Mobile Game Development, Blockchain Solutions, AI & Quantitative Trading, System Architecture, Game Design, Digital Marketing & Product Operations.
 
@@ -19,22 +23,73 @@ A versatile developer passionate about crafting high-quality digital products. M
 
 ## 🛠️ Technical Skills
 
-**Frontend:** `React` `Next.js` `Vue.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Sass` `Framer Motion` `Responsive Design` `Styled Components` `WebAssembly` <br/>
-**Backend:** `Node.js` `Nest.js` `Express` `Python` `Java` `Go` `C#` `PHP` `Socket.IO` `Protobuf` `GraphQL` `REST APIs` `Serverless` <br/>
-**Databases:** `PostgreSQL` `MySQL` `Percona` `Redis` `MongoDB` `Firebase` `SQL` `Database Design & Optimization` <br/>
-**DevOps & Cloud:** `Docker` `Kubernetes` `GCP` `Firebase` `Cloudflare Pages` `GitHub Actions` `CI/CD` `Ubuntu` `Serverless` `Automation` <br/>
-**AI & ML:** `PyTorch` `TensorFlow` `LLM/GPT` `NLP` `Computer Vision` `Quantitative Trading` `Reinforcement Learning` `Monte Carlo Simulation` `Data Analysis` `Time Series Analysis` <br/>
-**Game Development:** `Unity3D` `Cocos2d` `Corona SDK` `Lua` `Game AI` `Multiplayer Networking` `Game Physics` `ELO Rating` `Shader Programming` `Mobile Games` <br/>
-**Blockchain:** `Solidity` `Ethereum` `EOS` `Smart Contracts` `Web3` `DeFi` `dApps` `NFTs` `Cryptocurrency` <br/>
-**Tools & Other:** `Git` `Bun` `FFmpeg` `Simhash` `Chrome Extensions` `Payment Integration` `Ad Mediation` `SEO` `Digital Marketing` `Agile` `Team Leadership`
+<details>
+  <summary><strong>Frontend</strong></summary>
+  <p><code>React</code> <code>Next.js</code> <code>Vue.js</code> <code>TypeScript</code> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>Tailwind CSS</code> <code>Sass</code> <code>Framer Motion</code> <code>Responsive Design</code> <code>Styled Components</code> <code>WebAssembly</code></p>
+</details>
+
+<details>
+  <summary><strong>Backend</strong></summary>
+  <p><code>Node.js</code> <code>Nest.js</code> <code>Express</code> <code>Python</code> <code>Java</code> <code>Go</code> <code>C#</code> <code>PHP</code> <code>Socket.IO</code> <code>Protobuf</code> <code>GraphQL</code> <code>REST APIs</code> <code>Serverless</code></p>
+</details>
+
+<details>
+  <summary><strong>Databases</strong></summary>
+  <p><code>PostgreSQL</code> <code>MySQL</code> <code>Percona</code> <code>Redis</code> <code>MongoDB</code> <code>Firebase</code> <code>SQL</code> <code>Database Design & Optimization</code></p>
+</details>
+
+<details>
+  <summary><strong>DevOps & Cloud</strong></summary>
+  <p><code>Docker</code> <code>Kubernetes</code> <code>GCP</code> <code>Firebase</code> <code>Cloudflare Pages</code> <code>GitHub Actions</code> <code>CI/CD</code> <code>Ubuntu</code> <code>Serverless</code> <code>Automation</code></p>
+</details>
+
+<details>
+  <summary><strong>AI & ML</strong></summary>
+  <p><code>PyTorch</code> <code>TensorFlow</code> <code>LLM/GPT</code> <code>NLP</code> <code>Computer Vision</code> <code>Quantitative Trading</code> <code>Reinforcement Learning</code> <code>Monte Carlo Simulation</code> <code>Data Analysis</code> <code>Time Series Analysis</code></p>
+</details>
+
+<details>
+  <summary><strong>Game Development</strong></summary>
+  <p><code>Unity3D</code> <code>Cocos2d</code> <code>Corona SDK</code> <code>Lua</code> <code>Game AI</code> <code>Multiplayer Networking</code> <code>Game Physics</code> <code>ELO Rating</code> <code>Shader Programming</code> <code>Mobile Games</code></p>
+</details>
+
+<details>
+  <summary><strong>Blockchain</strong></summary>
+  <p><code>Solidity</code> <code>Ethereum</code> <code>EOS</code> <code>Smart Contracts</code> <code>Web3</code> <code>DeFi</code> <code>dApps</code> <code>NFTs</code> <code>Cryptocurrency</code></p>
+</details>
+
+<details>
+  <summary><strong>Tools & Other</strong></summary>
+  <p><code>Git</code> <code>Bun</code> <code>FFmpeg</code> <code>Simhash</code> <code>Chrome Extensions</code> <code>Payment Integration</code> <code>Ad Mediation</code> <code>SEO</code> <code>Digital Marketing</code> <code>Agile</code> <code>Team Leadership</code></p>
+</details>
 
 ---
 
 ## 💼 Professional Experience
 
-*   **Cubeage Limited** (Full Stack Developer, 2014-2024): Developed mobile games reaching 10M+ global downloads using Unity3D, Cocos2d, etc.; built scalable backend infrastructure.
-*   **MiniMax Game Entertainment Ltd.** (Full Stack Developer, 2010-2016): Key developer for 30+ Facebook social games (10M+ MAU); developed Funimax game distribution platform.
-*   **Nakuz.com Limited** (Full Stack Developer, 2006-2024): Built & maintained HK's #1 gaming portal (500k+ users); partnered with 100+ publishers; modernized stack with React/Next.js.
+<ul>
+  <li>
+    <strong>Cubeage Limited</strong> (Full Stack Developer, 2014-2024)
+    <ul>
+      <li>Developed mobile games reaching 10M+ global downloads (Unity3D, Cocos2d, etc.).</li>
+      <li>Built scalable backend infrastructure and monetization strategies.</li>
+    </ul>
+  </li>
+  <li>
+    <strong>MiniMax Game Entertainment Ltd.</strong> (Full Stack Developer, 2010-2016)
+    <ul>
+      <li>Key developer for 30+ Facebook social games (10M+ MAU).</li>
+      <li>Developed Funimax game distribution platform.</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Nakuz.com Limited</strong> (Full Stack Developer, 2006-2024)
+    <ul>
+      <li>Built & maintained HK's #1 gaming portal (500k+ users).</li>
+      <li>Partnered with 100+ publishers; modernized stack with React/Next.js.</li>
+    </ul>
+  </li>
+</ul>
 
 ---
 

@@ -125,6 +125,19 @@ Implements **Tree of Thoughts** and **ReAct** methodologies for human-like AI re
 
 ### 💼 **Professional Systems**
 
+#### 🏢 [Sylphx Limited](https://github.com/sylphxltd) • AI Agent Infrastructure Company
+**⭐ 300+ Stars | 27 Repositories | Founded 2025**
+
+UK technology company building critical infrastructure for AI-powered development in the MCP ecosystem.
+
+- 🤖 **PDF Reader MCP** (300 stars): Production-grade PDF processing, 5-10x faster, 94%+ test coverage
+- 🗂️ **Filesystem MCP** (6 stars): Token-efficient batch operations, secure filesystem access
+- 🧠 **RAG Server MCP** (18 stars): Privacy-first knowledge retrieval with ChromaDB + Ollama
+- 🔥 **Firestore ODM**: Type-safe Dart/Flutter ORM with code generation
+- 💡 **Flow Platform**: MEP architecture reducing prompt engineering time by 90%
+- 📦 **8K+ combined npm downloads** across @sylphlab packages
+- 🎯 Featured on major MCP server directories
+
 #### 📈 Quantitative Trading System • Algorithmic Trading Platform
 **Internal | Go, Python, PyTorch, GCP**
 
@@ -175,6 +188,17 @@ C++ • Kotlin • Objective-C • SQL • Shell
 ---
 
 ## 💼 Professional Journey
+
+### **Founder & Director | Sylphx Limited** • 2025 - Present
+🚀 *Building AI agent infrastructure for the future of development*
+
+- Founded UK technology company pioneering **Model Context Protocol (MCP) ecosystem**
+- Built **pdf-reader-mcp** serving AI agent community (**300+ stars**, **4.8K+ downloads**, **94%+ test coverage**)
+- Developed filesystem MCP with **token-efficient batch operations** (**4.1K+ downloads**)
+- Created RAG server with ChromaDB + Ollama for privacy-first AI knowledge retrieval
+- Published multiple npm packages under **@sylphlab** scope
+- Featured on major MCP directories (mcpservers.org, lobehub.com, pulsemcp.com)
+- **Tech:** TypeScript, Node.js, MCP, AI agents, Docker, RAG, ChromaDB
 
 ### **Full Stack Developer | Cubeage Limited** • 2014 - 2024
 🎮 *Building games that delight millions*
@@ -228,8 +252,8 @@ I don't build for the sake of building. Every project solves real problems:
 
 Constantly exploring cutting-edge technology:
 
-- 🧠 Advanced AI research (Tree of Thoughts, ReAct)
-- 🤖 Early MCP adoption for AI agent infrastructure
+- 🧠 Advanced AI research (Tree of Thoughts, ReAct, MEP architecture)
+- 🤖 **Founded Sylphx** - Early MCP ecosystem leader with 300+ stars
 - 🌐 WebAssembly experiments (Flutter3D, Dust framework)
 - ⛓️ Blockchain & DeFi systems
 - 📈 Quantitative trading with ML
@@ -270,7 +294,7 @@ Giving back through knowledge sharing:
 [![Trophy](https://github-profile-trophy.vercel.app/?username=shtse8&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 Contribution Stats
-**4,654 Commits** • **100+ Repositories** • **500+ Stars** • **3 Organizations**
+**4,654 Commits** • **100+ Repositories** • **800+ Stars** • **4 Organizations**
 
 </div>
 
@@ -285,7 +309,7 @@ Not just building prototypes—shipping production systems serving **10M+ users*
 Mastery across **6 domains**: Web, Mobile, Game Dev, Blockchain, AI/ML, Quantitative Trading. Not just familiar—expert-level production experience.
 
 ### 🚀 **Builder & Innovator**
-From zero to launch: concept → architecture → implementation → scale → monetization. Complete product lifecycle ownership.
+From zero to launch: concept → architecture → implementation → scale → monetization. Complete product lifecycle ownership. **Founded Sylphx Limited** - building AI infrastructure adopted by the community (300+ stars).
 
 ### 💡 **Open Source Contributor**
 Not just consuming—creating tools used by developers worldwide. **500+ stars**, **20+ packages**, meaningful community impact.
@@ -324,7 +348,7 @@ I'm passionate about projects that:
 
 **Let's build the future together.** 🚀
 
-[![Star History Chart](https://api.star-history.com/svg?repos=shtse8/pdf-reader-mcp,shtse8/Google-Photos-Delete-Tool,shtse8/FireSchema,shtse8/rag-server-mcp,shtse8/cursor-ai-downloads&type=Date)](https://star-history.com/#shtse8/pdf-reader-mcp&shtse8/Google-Photos-Delete-Tool&shtse8/FireSchema&shtse8/rag-server-mcp&shtse8/cursor-ai-downloads&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=sylphxltd/pdf-reader-mcp,shtse8/Google-Photos-Delete-Tool,shtse8/FireSchema,sylphxltd/rag-server-mcp,shtse8/cursor-ai-downloads&type=Date)](https://star-history.com/#sylphxltd/pdf-reader-mcp&shtse8/Google-Photos-Delete-Tool&shtse8/FireSchema&sylphxltd/rag-server-mcp&shtse8/cursor-ai-downloads&Date)
 
 *Made with ❤️ and lots of ☕ by Kyle Tse*
 

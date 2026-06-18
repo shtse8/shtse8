@@ -1,37 +1,63 @@
+<div align="center">
+
 # Kyle Tse
 
-Serial technical founder based in London. Building software since 2006.
+**Building AI-native infrastructure for developers and agents.**
 
-Currently running [Sylphx](https://sylphx.com) (open source AI tools) and [Epiow](https://epiow.com) (web development) in the UK.
+[![Sylphx](https://img.shields.io/badge/Sylphx-AI%20Platform-111827?style=flat-square)](https://sylphx.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@SylphxAI-111827?style=flat-square&logo=github)](https://github.com/SylphxAI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shtse8-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shtse8)
 
-Previously co-founded [Nakuz.com](https://nakuz.com) (HK's #1 gaming portal, 500K+ users, 2006–present), [Cubeage](https://cubeage.com) (mobile games, 10M+ downloads, 2014–2024), and [MiniMax/Funimax](https://funimax.com) (Facebook social games, 10M+ MAU, 2010–2016).
+</div>
 
-## Current Focus
+I am a technical founder based in London. I have been building software products since 2006, across developer tools, consumer communities, games, automation, and now AI-native infrastructure.
 
-Building tools in the [Model Context Protocol](https://modelcontextprotocol.io/) ecosystem under [@SylphxAI](https://github.com/SylphxAI):
+These days I am focused on [Sylphx](https://sylphx.com): a platform and open-source tooling stack for developers who want to ship software with AI, agents, and production infrastructure without stitching everything together by hand.
 
-- **[pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)** — PDF processing for AI agents. 490+ ⭐
-- **[rag-server-mcp](https://github.com/SylphxAI/rag-server-mcp)** — Retrieval-augmented generation server
-- **[filesystem-mcp](https://github.com/SylphxAI/filesystem-mcp)** — Token-efficient filesystem access
-- **[firestore_odm](https://github.com/SylphxAI/firestore_odm)** — Type-safe Firestore ODM for Dart/Flutter
+## Current direction
 
-## Other Projects
+I like building practical tools around one question:
 
-- **[Google Photos Delete Tool](https://github.com/shtse8/Google-Photos-Delete-Tool)** — Bulk delete Google Photos. Chrome extension + userscript. 129 ⭐
-- **[ChatGPT Export](https://github.com/shtse8/chatgpt-export)** — Export ChatGPT conversations to JSON/Markdown/HTML
-- **[cursor-ai-downloads](https://github.com/shtse8/cursor-ai-downloads)** — Version archive for Cursor IDE
-- **[DeepResearch](https://github.com/shtse8/DeepResearch)** — AI research tool using Tree of Thoughts + ReAct
-- **[xdash](https://github.com/shtse8/xdash)** — Zero-dependency TypeScript utility library
+> What would software look like if AI agents were first-class builders, not just chat boxes?
 
-## Tech
+That usually means working on:
 
-TypeScript, JavaScript, Python, Go, C#, PHP, Dart, Solidity — React, Next.js, Node.js, Unity3D, Flutter — PostgreSQL, Redis, Firebase, Docker
+- **Agent infrastructure** — tools, runtimes, context, filesystems, document processing, retrieval, and orchestration.
+- **Developer platforms** — deployment, auth, storage, jobs, AI gateways, observability, and product infrastructure.
+- **Type-safe foundations** — schemas, code generation, SDKs, and frameworks that make products easier to evolve.
+- **Useful automation** — small tools that solve real workflow pain, not just demos.
+
+## Selected work
+
+| Area | Projects |
+| --- | --- |
+| **AI agent tools** | [pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp), [filesystem-mcp](https://github.com/SylphxAI/filesystem-mcp) |
+| **Code intelligence** | [CodeRAG](https://github.com/SylphxAI/coderag), [rag-server-mcp](https://github.com/SylphxAI/rag-server-mcp) |
+| **AI dev workflow** | [Sylphx Flow](https://github.com/SylphxAI/flow) |
+| **Product foundations** | [firestore_odm](https://github.com/SylphxAI/firestore_odm), Dart / Flutter / TypeScript tooling |
+| **Practical utilities** | [Google Photos Delete Tool](https://github.com/shtse8/Google-Photos-Delete-Tool), [ChatGPT Export](https://github.com/shtse8/chatgpt-export), [cursor-ai-downloads](https://github.com/shtse8/cursor-ai-downloads) |
+
+## Earlier products
+
+Earlier projects gave me a lot of product and scale experience:
+
+- Co-founded [Nakuz.com](https://nakuz.com), a Hong Kong gaming community with 500K+ users.
+- Built [Cubeage](https://cubeage.com), mobile games with 10M+ downloads.
+- Built [MiniMax / Funimax](https://funimax.com), Facebook social games with 10M+ monthly active users.
+
+I still care about the same thing: building things people actually use.
+
+## Stack
+
+TypeScript · JavaScript · Dart · Python · Go · C# · PHP · Solidity<br>
+React · Next.js · Node.js · Bun · Flutter · Unity · Firebase · PostgreSQL · Redis · Docker
 
 ## Links
 
-- [kylet.se](https://kylet.se)
-- [linkedin.com/in/shtse8](https://linkedin.com/in/shtse8)
-- [hi@kylet.se](mailto:hi@kylet.se)
+- [Sylphx](https://sylphx.com)
+- [GitHub @SylphxAI](https://github.com/SylphxAI)
+- [LinkedIn](https://linkedin.com/in/shtse8)
+- [Email](mailto:hi@kylet.se)
 
 ---
 

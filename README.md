@@ -10,22 +10,22 @@
 
 </div>
 
-I am a technical founder based in London. I have been building software products since 2006, across developer tools, consumer communities, games, automation, and now AI-native infrastructure.
+Technical founder based in London. Building software products since 2006 — across developer tools, consumer communities, games, automation, and now AI-native infrastructure.
 
-These days I am focused on [Sylphx](https://sylphx.com): a platform and open-source tooling stack for developers who want to ship software with AI, agents, and production infrastructure without stitching everything together by hand.
+Current focus: **[Sylphx](https://sylphx.com)** — a platform and open-source stack for shipping software with AI, agents, and production infrastructure without stitching everything together by hand.
 
-## Current direction
+## What I'm building toward
 
-I like building practical tools around one question:
+One practical question:
 
 > What would software look like if AI agents were first-class builders, not just chat boxes?
 
-That usually means working on:
+That usually means:
 
-- **Agent infrastructure** — tools, runtimes, context, filesystems, document processing, retrieval, and orchestration.
-- **Developer platforms** — deployment, auth, storage, jobs, AI gateways, observability, and product infrastructure.
-- **Type-safe foundations** — schemas, code generation, SDKs, and frameworks that make products easier to evolve.
-- **Useful automation** — small tools that solve real workflow pain, not just demos.
+- **Agent infrastructure** — tools, runtimes, context, filesystems, document processing, retrieval, orchestration
+- **Developer platforms** — deployment, auth, storage, jobs, AI gateways, observability
+- **Type-safe foundations** — schemas, code generation, SDKs, frameworks that stay evolvable
+- **Useful automation** — tools that fix real workflow pain, not demos
 
 ## Selected work
 
@@ -39,17 +39,15 @@ That usually means working on:
 
 ## Earlier products
 
-Earlier projects gave me a lot of product and scale experience:
+- Co-founded [Nakuz.com](https://nakuz.com) — Hong Kong gaming community, 500K+ users
+- Built [Cubeage](https://cubeage.com) — mobile games, 10M+ downloads
+- Built [MiniMax / Funimax](https://funimax.com) — Facebook social games, 10M+ MAU
 
-- Co-founded [Nakuz.com](https://nakuz.com), a Hong Kong gaming community with 500K+ users.
-- Built [Cubeage](https://cubeage.com), mobile games with 10M+ downloads.
-- Built [MiniMax / Funimax](https://funimax.com), Facebook social games with 10M+ monthly active users.
-
-I still care about the same thing: building things people actually use.
+Same through-line: build things people actually use.
 
 ## Stack
 
-TypeScript · JavaScript · Dart · Python · Go · C# · PHP · Solidity<br>
+TypeScript · JavaScript · Dart · Python · Go · C# · PHP · Solidity  
 React · Next.js · Node.js · Bun · Flutter · Unity · Firebase · PostgreSQL · Redis · Docker
 
 ## Links
@@ -58,7 +56,3 @@ React · Next.js · Node.js · Bun · Flutter · Unity · Firebase · PostgreSQL
 - [GitHub @SylphxAI](https://github.com/SylphxAI)
 - [LinkedIn](https://linkedin.com/in/shtse8)
 - [Email](mailto:hi@kylet.se)
-
----
-
-![Metrics](github-metrics.svg)

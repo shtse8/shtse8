@@ -72,10 +72,11 @@ Currently focused on **[Sylphx](https://sylphx.com)** — stop stitching tools t
 | **[Sylphx](https://github.com/SylphxAI)** | Founder | AI-native platform + OSS |
 | **[Epiow](https://github.com/EpiowAI)** | Co-Founder & CTO | Organization OS · HK labour / MPF-native |
 | **[Cubeage](https://github.com/Cubeage)** | Founder & CEO | Premium mobile board & card games |
+| **[Ozyrix](https://github.com/OzyrixLtd)** | Operator | Quality tech accessories · multi-channel commerce |
 | **Nakuz** | Co-Founder & CTO | HK gaming media & community (2006–) |
 | **MiniMax / Funimax** | Co-Founder & CEO | Social games era (historical) |
 
-Brand SSOT: [Sylphx](https://github.com/SylphxAI/brand) · [Epiow](https://github.com/EpiowAI/brand) · [Cubeage](https://github.com/Cubeage/brand)
+Brand SSOT: [Sylphx](https://github.com/SylphxAI/brand) · [Epiow](https://github.com/EpiowAI/brand) · [Cubeage](https://github.com/Cubeage/brand) · [Ozyrix](https://github.com/OzyrixLtd/brand)
 
 ---
 

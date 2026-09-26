@@ -1,13 +1,8 @@
-<!--
-  Profile README for https://github.com/shtse8
-  Narrative SSOT: personal portfolio + company brand repos
--->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:4A90E2,100:D87000&height=200&section=header&text=Kyle%20Tse&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Infrastructure%20for%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20AI-native%20platforms&descAlignY=55&descSize=16" width="100%" alt="header"/>
 
 <p align="center">
-  <b>AI Infrastructure Builder · Technical Founder · London, UK</b><br/>
-  Building what agents and developers run on — not demos.
+  <b>Founder of Sylphx · London, UK</b><br/>
+  I build developer tools and the platform that AI agents and apps run on.
 </p>
 
 <p align="center">
@@ -18,50 +13,35 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=4A90E2&center=true&vCenter=true&width=640&lines=MCP+%26+AI-agent+tooling;AI-native+PaaS+(Sylphx);RAG+%26+semantic+code+search;20+years+shipping+at+scale" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=4A90E2&center=true&vCenter=true&width=640&lines=Tools+for+AI+agents;One+platform+for+apps+(Sylphx);20+years+of+shipping+products" alt="typing"/>
 </p>
 
 ---
 
 ## About
 
-I build the **infrastructure AI agents run on** — MCP servers, AI-native platforms, retrieval, and high-performance TypeScript foundations.
-
-Currently focused on **[Sylphx](https://sylphx.com)** — stop stitching tools together; ship with one platform. Before that: 20 years of products people actually used — games at tens of millions of installs, and one of Hong Kong’s major gaming communities.
-
-> What would software look like if agents were first-class builders, not chat boxes?
-
----
-
-## Now
-
-| | |
-|--|--|
-| **Building** | [Sylphx](https://sylphx.com) · AI-native PaaS + OSS toolchain |
-| **Also** | [Epiow](https://epiow.com) — organization OS (HK-first) · [Cubeage](https://cubeage.com) — premium mobile card games |
-| **Open source** | MCP servers, CodeRAG, performance libraries under [@SylphxAI](https://github.com/SylphxAI) |
-| **Based** | London, UK · remote-friendly |
+I founded [Sylphx](https://sylphx.com), one platform to build, host and run
+apps, and I write open-source tools that make AI coding agents faster and more
+accurate. Before that: 20 years of shipping products, including mobile games
+with tens of millions of installs and one of Hong Kong's largest gaming
+communities.
 
 ---
 
-## Featured open source
+## Open source
 
-| Project | Why it matters |
-|---------|----------------|
-| **[pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)** | PDF tooling for AI agents — production MCP, high download volume |
-| **[filesystem-mcp](https://github.com/SylphxAI/filesystem-mcp)** | Agent-safe filesystem primitives |
-| **[CodeRAG](https://github.com/SylphxAI/coderag)** | Semantic code search + AST chunking, MCP-ready |
-| **[Rapid](https://github.com/SylphxAI/rapid)** | Hyper-optimized state management (tiny, fast) |
-| **[mcp-server-sdk](https://github.com/SylphxAI/mcp-server-sdk)** | Shared MCP server foundations |
+| Project | What it does |
+|---------|--------------|
+| **[anymd](https://github.com/SylphxAI/anymd)** | Any file to clean Markdown for AI agents: PDF, Office, EPUB, web pages, images, audio and video. MCP server and CLI, runs locally. |
+| **[repomap](https://github.com/SylphxAI/repomap)** | A map of your codebase for AI agents: code graph, search, call paths and change impact. |
+| **[lockdocs](https://github.com/SylphxAI/lockdocs)** | Library docs for the exact versions in your lockfile, local and offline. |
+| **[Mark](https://github.com/SylphxAI/readme-mark)** | README banners, badges and GitHub stats cards from one URL, at [mark.sylphx.com](https://mark.sylphx.com). |
+| **[firestore_odm](https://github.com/SylphxAI/firestore_odm)** | Type-safe Firestore ODM for Flutter and Dart, the maintained successor to cloud_firestore_odm. |
 
-<p align="center">
-  <a href="https://github.com/SylphxAI/pdf-reader-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SylphxAI&repo=pdf-reader-mcp&theme=tokyonight&hide_border=true" alt="pdf-reader-mcp"/>
-  </a>
-  <a href="https://github.com/SylphxAI/coderag">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SylphxAI&repo=coderag&theme=tokyonight&hide_border=true" alt="coderag"/>
-  </a>
-</p>
+Personal projects: [Google Photos Delete Tool](https://github.com/shtse8/Google-Photos-Delete-Tool)
+(find duplicates and bulk delete in Google Photos) and
+[ChatGPT Export](https://github.com/shtse8/chatgpt-export) (export every
+ChatGPT conversation, including Team and Business plans).
 
 ---
 
@@ -69,14 +49,12 @@ Currently focused on **[Sylphx](https://sylphx.com)** — stop stitching tools t
 
 | Brand | Role | Focus |
 |-------|------|--------|
-| **[Sylphx](https://github.com/SylphxAI)** | Founder | AI-native platform + OSS |
+| **[Sylphx](https://github.com/SylphxAI)** | Founder | Platform for apps and AI agents; open-source developer tools |
 | **[Epiow](https://github.com/EpiowAI)** | Co-Founder & CTO | Organization OS · HK labour / MPF-native |
 | **[Cubeage](https://github.com/Cubeage)** | Founder & CEO | Premium mobile board & card games |
 | **[Ozyrix](https://github.com/OzyrixLtd)** | Operator | Quality tech accessories · multi-channel commerce |
 | **Nakuz** | Co-Founder & CTO | HK gaming media & community (2006–) |
 | **MiniMax / Funimax** | Co-Founder & CEO | Social games era (historical) |
-
-Brand SSOT: [Sylphx](https://github.com/SylphxAI/brand) · [Epiow](https://github.com/EpiowAI/brand) · [Cubeage](https://github.com/Cubeage/brand) · [Ozyrix](https://github.com/OzyrixLtd/brand)
 
 ---
 
@@ -88,19 +66,19 @@ Brand SSOT: [Sylphx](https://github.com/SylphxAI/brand) · [Epiow](https://githu
   </a>
 </p>
 
-Also: Unity · Firebase · Kubernetes · MCP · RAG / vector search
+Also: Unity · Firebase · Kubernetes · MCP
 
 ---
 
 ## GitHub
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shtse8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+  <img height="180" src="https://mark.sylphx.com/api?username=shtse8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shtse8&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shtse8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="languages"/>
+  <img src="https://mark.sylphx.com/api/top-langs.svg?username=shtse8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="languages"/>
 </p>
 
 ---

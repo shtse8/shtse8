@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:4A90E2,100:D87000&height=200&section=header&text=Kyle%20Tse&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Infrastructure%20for%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20AI-native%20platforms&descAlignY=55&descSize=16" width="100%" alt="header"/>
+<img src="https://mark.sylphx.com/api/v1/mark/hero.svg?type=waving&theme=dark&text=Kyle%20Tse&desc=Founder%20of%20Sylphx%20%C2%B7%20London" width="100%" alt="Kyle Tse"/>
 
 <p align="center">
   <b>Founder of Sylphx · London, UK</b><br/>
@@ -6,14 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://kylet.se"><img src="https://img.shields.io/badge/Portfolio-kylet.se-111827?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://sylphx.com"><img src="https://img.shields.io/badge/Sylphx-Platform-4A90E2?style=for-the-badge" alt="Sylphx"/></a>
-  <a href="https://linkedin.com/in/shtse8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:hi@kylet.se"><img src="https://img.shields.io/badge/Email-hi%40kylet.se-D87000?style=for-the-badge" alt="Email"/></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=4A90E2&center=true&vCenter=true&width=640&lines=Tools+for+AI+agents;One+platform+for+apps+(Sylphx);20+years+of+shipping+products" alt="typing"/>
+  <a href="https://kylet.se"><img src="https://mark.sylphx.com/badge/Portfolio-kylet.se-111827?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://sylphx.com"><img src="https://mark.sylphx.com/badge/Sylphx-Platform-4A90E2?style=for-the-badge" alt="Sylphx"/></a>
+  <a href="https://linkedin.com/in/shtse8"><img src="https://mark.sylphx.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:hi@kylet.se"><img src="https://mark.sylphx.com/badge/Email-hi%40kylet.se-D87000?style=for-the-badge" alt="Email"/></a>
 </p>
 
 ---
@@ -61,8 +57,8 @@ ChatGPT conversation, including Team and Business plans).
 ## Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,react,nextjs,rust,docker,postgres,redis,python,dart,flutter,git,aws&theme=dark" alt="skills"/>
+  <a href="https://mark.sylphx.com">
+    <img src="https://mark.sylphx.com/icons?i=ts,js,nodejs,bun,react,nextjs,rust,docker,postgres,redis,python,dart,flutter,git,aws&theme=dark" alt="skills"/>
   </a>
 </p>
 
@@ -73,12 +69,12 @@ Also: Unity · Firebase · Kubernetes · MCP
 ## GitHub
 
 <p align="left">
-  <img height="180" src="https://mark.sylphx.com/api?username=shtse8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shtse8&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img height="180" src="https://mark.sylphx.com/api?username=shtse8&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+  <img height="180" src="https://mark.sylphx.com/streak?user=shtse8&theme=dark&hide_border=true" alt="streak"/>
 </p>
 
 <p align="left">
-  <img src="https://mark.sylphx.com/api/top-langs.svg?username=shtse8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="languages"/>
+  <img src="https://mark.sylphx.com/api/top-langs?username=shtse8&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="languages"/>
 </p>
 
 ---
@@ -91,4 +87,3 @@ Also: Unity · Firebase · Kubernetes · MCP
 - Games: [cubeage.com](https://cubeage.com)  
 - Email: [hi@kylet.se](mailto:hi@kylet.se)  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D87000,50:4A90E2,100:1A1A2E&height=120&section=footer&text=let's%20build.&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%" alt="footer"/>
